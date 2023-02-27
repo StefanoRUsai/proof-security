@@ -1,0 +1,10 @@
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (1, 'Mario Rossi', 'mario.rossi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (2, 'Luca Bianchi', 'luca.bianchi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (3, 'Giuseppe Verdi', 'giuseppe.verdi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (4, 'Simone Rossi', 'simone.rossi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (5, 'Francesco Bianchi', 'francesco.bianchi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (6, 'Alessandro Verdi', 'alessandro.verdi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (7, 'Giovanni Rossi', 'giovanni.rossi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (8, 'Marco Bianchi', 'marco.bianchi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (9, 'Paolo Verdi', 'paolo.verdi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
+INSERT INTO users (id, name, email, created_at, updated_at) VALUES (10, 'Claudio Rossi', 'claudio.rossi@example.com', '2022-12-04T08:50:56.290Z', '2022-12-04T08:50:56.290Z');
